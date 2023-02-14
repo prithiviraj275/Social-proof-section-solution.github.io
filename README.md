@@ -32,8 +32,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/prithiviraj275/Social-proof-section-solution.github.io.git
+- Live Site URL:(https://prithiviraj275.github.io/Social-proof-section-solution.github.io/)
 
 ## My process
 
