@@ -23,7 +23,7 @@ body{
     justify-content: center;
     width: 100%;
     height: 100%;
-    padding: 30px;
+    padding: 30px; 
     margin: 0;
 } */
 
@@ -106,7 +106,7 @@ section{
     
     
 }
-h4{
+h4,h5{
     margin-left: 30px;
     font-size: 1.1rem;
     margin-top: 10px;
@@ -189,7 +189,7 @@ p{
     
     .feedbackbox1,.feedbackbox2,.feedbackbox3{
         width:  27vw;
-        /* height: 35vh; */
+        height: 35vh;
         margin: 20px;
         margin-top:0;
     }
@@ -201,11 +201,17 @@ p{
         display: flex;
         flex-direction: row;        
         justify-content: center;
-        align-items: flex-end;
+        /* align-items: flex-end; */
     }
-    
-
-
+    .feedbackbox1{
+        align-self: self-start;
+    }
+    .feedbackbox2{
+        align-self:center;
+    }
+    .feedbackbox3{
+        align-self:self-end;
+    }
 }
 
 /* @media only screen and (max-width: 900px) {
